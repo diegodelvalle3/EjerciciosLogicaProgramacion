@@ -1,0 +1,44 @@
+🔥 Semana 1 – Fundamentos Lógicos
+Objetivo: fortalecer condicionales, bucles y operaciones básicas.
+Día	Ejercicio	Enfoque
+1	FizzBuzz	Condicionales
+2	Invertir una cadena	Strings y bucles
+3	Palíndromo	Lógica booleana
+4	Contar vocales y consonantes	Recorrido de strings
+5	Números primos entre 1 y N	Lógica matemática
+6	Sumar dígitos de un número (ej. 123 = 6)	División y módulo
+7	Factorial recursivo y no recursivo	Recursividad básica
+
+🔥 Semana 2 – Arrays y lógica intermedia
+Objetivo: manipular colecciones y usar lógica más compleja.
+Día	Ejercicio	Enfoque
+1	Encontrar el número más grande de un array	Búsqueda
+2	Eliminar duplicados de un array	Set / lógica
+3	Ordenar array manualmente (Bubble sort)	Algoritmo simple
+4	Detectar números repetidos en un array	Contadores / hash
+5	Encontrar el número que más se repite en un array	Frecuencia
+6	Sumar elementos de un array con reduce	Programación funcional
+7	Validar si dos palabras son anagramas	Ordenamiento / strings
+
+
+🔥 Semana 3 – Objetos, strings avanzadas y lógica combinatoria
+Objetivo: manejar estructuras de datos y lógica de combinación.
+Día	Ejercicio	Enfoque
+1	Contar ocurrencias de letras en una frase	Mapas / objetos
+2	Reemplazar palabras en una frase (como un mini-filtro)	Manipulación de texto
+3	Generar todas las combinaciones de una palabra corta	Recursividad / lógica
+4	Revertir palabras en una frase sin alterar el orden	Dividir / unir strings
+5	Validar si una cadena tiene paréntesis balanceados	Stack / lógica de pila
+6	Mini buscador: buscar una palabra en un texto largo	Includes / lógica básica
+7	Mini login: comparar input de usuario con una "DB" mock	Condicionales + objetos
+
+🔥 Semana 4 – Desafíos tipo entrevista
+Objetivo: fortalecer estructuras mentales y resolución eficiente.
+Día	Ejercicio	Enfoque
+1	Búsqueda binaria (iterativa y recursiva)	Algoritmos
+2	Implementar una pila (push, pop, peek) con array	Estructuras de datos
+3	Simular un historial de navegación con dos pilas	Lógica + estructuras
+4	Detectar si hay ciclo en un array (como fast/slow pointer)	Punteros / lógica
+5	Merge de dos arrays ordenados en uno solo	Eficiencia
+6	Algoritmo de ordenamiento (QuickSort o MergeSort)	Recursividad + orden
+7	Crear un validador de brackets con múltiples tipos ({[()]})	Stack avanzado
