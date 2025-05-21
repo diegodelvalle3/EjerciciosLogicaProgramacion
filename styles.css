@@ -1,0 +1,36 @@
+/* 1. Set the base font size for easy rem calculation (1rem = 10px) */
+
+textarea {
+    resize: none;
+}
+
+#formulario {
+    margin: 9rem;
+    color: rgb(0, 0, 0);
+    position: relative;
+}
+
+.label {
+    font-size: 2rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    display: block;
+    justify-content: center;
+}
+
+.input {
+    border: solid;
+    border-color: rgb(94, 225, 220);
+    border-radius: 0.3rem;
+}
+
+.button {
+    background-color: rgb(255, 255, 255);
+    border: solid;
+    border-color: rgb(31, 31, 255);
+    padding: 0.8rem 2rem;
+    position: absolute;
+    left: 19.5rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}

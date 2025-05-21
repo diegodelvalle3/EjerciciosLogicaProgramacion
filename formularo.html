@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+</head>
+
+<body>
+    <form action="" method="" id="formulario" class="formulario">
+        <label for="name" class="label"> Nombre
+            <input type="text" placeholder="Diego del Valle" id="name" class="input">
+        </label>
+        <label for="age" class="label"> Edad
+            <input type="text" placeholder="19" id="age" class="input">
+        </label>
+        <label for="message" class="label"> Mensaje
+            <textarea name="mensaje" id="message" class="input"></textarea>
+        </label>
+
+        <button type="submit" class="button">Enviar</button>
+        <button type="button" onclick="alerta()">Alerta</button>
+    </form>
+</body>
+<script src="https://smtpjs.com/v3/smtp.js"></script>
+<script src="js/ejercicios/formulario.js"></script>
+
+</html>
